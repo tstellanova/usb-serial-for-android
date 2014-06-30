@@ -1,5 +1,4 @@
 # Studio/Gradle
-*.iml
 .gradle/
 build/
 
